@@ -1,0 +1,7 @@
+export { default as NavBar } from "./NavBar"
+export { default as Main } from "./Main"
+export { default as BrandInfos } from "./BrandInfos"
+export { default as Product } from "./Product"
+export { default as Testimonial } from "./Testimonial"
+export { default as NewsLetter } from "./NewsLetter"
+export { default as Footer } from "./Footer"
